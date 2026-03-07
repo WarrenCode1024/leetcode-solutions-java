@@ -3,7 +3,6 @@ package com.leetcode.topinterview150.lc_0036_valid_sudoku;
 public class Solution {
     public boolean isValidSudoku(char[][] board) {
 
-
         // 定义三个二维数组用于记录
         // 第一维表示：第几行 / 第几列 / 第几个宫 (0-8)
         // 第二维表示：数字 1-9 (映射为 0-8)
