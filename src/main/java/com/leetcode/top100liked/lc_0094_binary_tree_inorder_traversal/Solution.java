@@ -1,6 +1,5 @@
 package com.leetcode.top100liked.lc_0094_binary_tree_inorder_traversal;
 
-
 import java.util.ArrayList;
 import java.util.List;
 
