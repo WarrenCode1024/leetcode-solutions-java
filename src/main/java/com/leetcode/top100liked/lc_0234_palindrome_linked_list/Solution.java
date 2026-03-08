@@ -1,6 +1,5 @@
 package com.leetcode.top100liked.lc_0234_palindrome_linked_list;
 
-
 //  Definition for singly-linked list.
 class ListNode {
     int val;
