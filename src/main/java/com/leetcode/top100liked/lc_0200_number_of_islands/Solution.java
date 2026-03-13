@@ -1,6 +1,7 @@
 package com.leetcode.top100liked.lc_0200_number_of_islands;
 
 public class Solution {
+
     public int numIslands(char[][] grid) {
         if (grid == null || grid.length == 0) {
             return 0;
